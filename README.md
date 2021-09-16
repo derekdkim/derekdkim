@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
 
+Welcome to my Github! Please check out the pinned projects for a sample of my work.
+
+- LinkedIn: https://www.linkedin.com/in/derek-kim-502650220/
 <!--
 **derekdkim/derekdkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
